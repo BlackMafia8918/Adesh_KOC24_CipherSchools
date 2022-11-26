@@ -1,0 +1,25 @@
+ls>abc.php	  (>- )
+ls>>abc.php   (>> - it means append)
+~$touch/downloads/laptop.tht      (creatinga new a file at a specific location)
+
+# Commands used in Linux
+
+1. .cp - it's used to copy a file
+
+
+2. .mv - it's used to move a file 
+
+
+3. sudo command - Short for superuser do, sudo is one of the most popular basic Linux commands that lets 
+you perform tasks that require administrative or root permissions.
+
+
+4. mkdir - used to create one or multiple directories
+
+
+
+5. rmdir - used to permanently delete an empty directory 
+
+
+
+6. rm - used to delete files within a directory

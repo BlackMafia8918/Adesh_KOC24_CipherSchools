@@ -1,0 +1,25 @@
+h3{
+	style="color:blue;"
+ 	font-size:200; 
+}
+#id1{
+	font-size:300% 
+}
+.cl{
+	color:blue; 
+}
+.cl2{
+	font-size:500%; 
+}
+h6{
+	color:red;
+	font-family:system-ui;
+	font-size:200%;
+	border: 5px dotted orange;
+	text-align:center;
+	text-decoration:underline;
+	text-transform:lowercase;
+	letter-spacing:10px;
+	word-spacing: 50px;
+	text-shadow:2px 4px black;
+}		
